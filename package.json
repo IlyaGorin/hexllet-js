@@ -7,11 +7,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/IlyaGorin/hexllet-js/issues"
   },
-  "homepage": "https://github.com/IlyaGorin/hexllet-js#readme"
+  "homepage": "https://github.com/IlyaGorin/hexllet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
